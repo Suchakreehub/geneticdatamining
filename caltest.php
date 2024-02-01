@@ -34,7 +34,7 @@
     <input type="int" class="form-control" name = "smoke"  placeholder="สูบบุหรี่" aria-label="smoke ">
   </div>
 </div>
-  หฟกหฟกวสฟหากสว
+  ijsaalkdjsalkdjsaldj
     <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
